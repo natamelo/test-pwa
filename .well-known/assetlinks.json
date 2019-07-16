@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "com.smartseller.app",
+               "sha256_cert_fingerprints": ["D5:AD:2E:9D:34:5A:D1:BB:A7:AF:99:DC:B4:6F:C8:78:F2:6A:28:28:DC:5D:B3:37:12:E6:FC:2E:55:5A:20:CE"] }
+}]
